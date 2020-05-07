@@ -1,4 +1,4 @@
-class DivisoesDe3 {
+class DivisoesDeTres {
     public static void main(String[] args) {
         for (int i = 0; i <= 100; i = i + 1){
             if(i % 3 == 0){

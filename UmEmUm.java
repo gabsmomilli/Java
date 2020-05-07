@@ -1,4 +1,4 @@
-class 1em1 {
+class UmEmUm {
     public static void main(String[] args) {
         int num = 0;
         while (num <= 999){
